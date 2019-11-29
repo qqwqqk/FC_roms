@@ -1,2 +1,7 @@
 # FC_roms
-FC games
+
+CTRL + ALT + T :
+```shell
+sudo apt-get update
+sudo apt-get install fceux
+```
